@@ -77,7 +77,7 @@ Hospital management needs answers to four questions before planning staffing, ca
 - Average billing trend by month
 - Revenue by medical condition
 
-![Page 1](images/page1_overview.png)
+![Page 1](Executive_Revenue_Overview.png)
 
 ### Page 2 - Clinical Metrics & Demographics
 - Average billing by insurance provider
@@ -86,7 +86,7 @@ Hospital management needs answers to four questions before planning staffing, ca
 - Age group breakdown
 - Medical condition vs test results
 
-![Page 2](images/page2_clinical.png)
+![Page 2](Clinical_Metrics_Demographics.png)
 
 ---
 
