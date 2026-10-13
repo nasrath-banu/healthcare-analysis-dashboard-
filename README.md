@@ -132,4 +132,4 @@ I build **Power BI dashboards, Excel reporting and data cleaning pipelines** tha
 - Excel analysis, pivot reporting and automation
 - Data cleaning and analysis with Python and SQL
 
-**Contact:** `nasrathbanuaman01@gmail.com` | `<Upwork / Fiverr profile link>` | [LinkedIn](https://www.linkedin.com/in/nasrath-banu-a-016b952b4)
+**Contact:** `nasrathbanuaman01@gmail.com` | [Available for Freelance Projects on Fiverr](https://www.fiverr.com/s/NeeQv5Q)  | [LinkedIn](https://www.linkedin.com/in/nasrath-banu-a-016b952b4)
